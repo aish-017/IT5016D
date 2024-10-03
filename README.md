@@ -1,3 +1,3 @@
 # IT5016D
-First 
-I am changing the content of README file
+For assessment 2, I had a lot of trial and error in creating the Help Desk Ticketing sysytem. I had to continuously review the class canvas models for this course. I learned various new ways of adding useful functions to help with my code.
+For assessment 3, I wanted to apply and execute some of the coding functions I learnt from the class modules into personal projects. I had fun, especially at making my Lazy Day Routine Clock and Halloween Greetings. I also realised I forgot to add my codes on GitHub. This became a good lesson for me to actively upload my codes here as I work instead of making it harder for myself and doing it all at once.  
