@@ -1,4 +1,4 @@
-class Ticket:
+class Ticket: 
     def __init__(self, staffID, name, email, description):
         # Initialize the ticket with staff details and issue description
         self.staffID = staffID
@@ -8,8 +8,8 @@ class Ticket:
         self.response = "Not Yet Provided"
         self.status = "Open"
 
-    def __str__(self):
-        # Format the ticket details for printing
+    def __str__(self): 
+        # __str__ method formats the ticket details for printing
         return (f"Ticket Number: {self.ticketNumber}\n"
                 f"Ticket Creator: {self.name}\n"
                 f"Staff ID: {self.staffID}\n"
@@ -18,7 +18,7 @@ class Ticket:
                 f"Response: {self.response}\n"
                 f"Ticket Status: {self.status}")
 
-class HelpDesk:
+class HelpDesk: # Hleps manage tickets
     # Static variables to keep track of ticket numbers and counts
     ticketNumber = 2000
     openTickets = 0
